@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github.com/gustavorodriguesf/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesf&layout=compact&langs_count=16&theme=dracula">
+    <img height="180em" card_width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesf&layout=compact&langs_count=16&theme=dracula"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodriguesf&show_icons=true&theme=dracula">
   </a>
 </div>
@@ -25,10 +25,12 @@
 ##
 ### Tecnologias e Ferramentas
 <div style="display: inline-block">
-    <img align="center" width="40" height="30" alt="Gustavo-Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" width="40" height="30" alt="Gustavo-Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" width="40" height="30" alt="Gustavo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" width="40" height="30" alt="Gustavo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <a href="https://github.com/gustavorodriguesf/">
+      <img align="center" width="40" height="30" alt="Gustavo-Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img align="center" width="40" height="30" alt="Gustavo-Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img align="center" width="40" height="30" alt="Gustavo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img align="center" width="40" height="30" alt="Gustavo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    </a>
 </div>
 
 ##
