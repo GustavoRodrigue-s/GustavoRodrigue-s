@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://github.com/gustavorodriguesf/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesf&layout=compact&langs_count=16&theme=dracula&card_width=250">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorodriguesf&show_icons=true&theme=dracula">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorodriguesf&layout=compact&langs_count=16&theme=dracula&card_width=250">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavorodriguesf&show_icons=true&theme=dracula">
   </a>
 </div>
  
