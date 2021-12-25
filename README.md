@@ -2,7 +2,7 @@
   
 <ul>
   <li>Meu nome é Gustavo, tenho 17 anos e sou desenvolvedor de software.</li>
-  <li>Estou estudando desenvolvimento web e outras áreas de software há pelo menos 10 meses.</li>
+  <li>Estou estudando desenvolvimento web e outras áreas de software há pelo menos 1 ano.</li>
   <li>Comecei a programar com Python mas atualmente estou estudando JavaScript.</li>
   <li>Meus objetivos futuros são em aprender React, Jquery e outros.</li>
 </ul>
