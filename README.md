@@ -31,6 +31,7 @@
       <img align="center" width="40" height="30" alt="Gustavo-Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img align="center" width="40" height="30" alt="Gustavo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img align="center" width="40" height="30" alt="Gustavo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      <img align="center" width="40" height="30" alt="Gustavo-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     </a>
 </div>
 
