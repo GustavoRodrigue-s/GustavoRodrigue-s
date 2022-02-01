@@ -33,6 +33,7 @@
       <img align="center" width="40" height="30" alt="Gustavo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img align="center" width="40" height="30" alt="Gustavo-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       <img align="center" width="40" height="30" alt="Gustavo-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img align="center" with="40" height="30" alt="Gustavo-Npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     </a>
 </div>
 
