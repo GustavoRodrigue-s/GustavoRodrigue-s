@@ -31,7 +31,8 @@
       <img align="center" alt="Gustavo-Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img align="center" alt="Gustavo-Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img align="center" alt="Gustavo-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img align="center" alt="Gustavo-React" src="https://img.shields.io/badge/React-405D84?style=for-the-badge&logo=react&logoColor=61AFB" />
+      <img align="center" alt="Gustavo-TypeScript" src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img align="center" alt="Gustavo-React" src="https://img.shields.io/badge/React.js-405D84?style=for-the-badge&logo=react&logoColor=61AFB" />
       <img align="center" alt="Gustavo-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img align="center" alt="Gustavo-Figma" src="https://img.shields.io/badge/Figma-7061ED?style=for-the-badge&logo=figma&logoColor=white" />
       <img align="center" alt="Gustavo-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
