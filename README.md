@@ -18,7 +18,7 @@
 ##
 
 <div>
-  <a href="https://github.com/gustavorodriguesf/">
+  <a href="https://github.com/GustavoRodrigue-s/">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRodrigue-s&layout=compact&langs_count=16&theme=dracula&card_width=250">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoRodrigue-s&show_icons=true&theme=dracula">
   </a>
