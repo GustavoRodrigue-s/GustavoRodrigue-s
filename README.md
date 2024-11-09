@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Rodrigues 👋
   
 <ul>
-  <li>MDesenvolvedor Frontend com mais de 2 anos de experiência profissional na criação de sites e aplicativos.</li>
+  <li>Desenvolvedor Frontend com mais de 2 anos de experiência profissional na criação de sites e aplicativos.</li>
   <li>Tenho foco na construção de interfaces modernas e intuitivas, sempre buscando me aprofundar no ecossistema completo de desenvolvimento de aplicativos, desde a concepção da interface até a integração com o servidor.</li>
 </ul>
 
