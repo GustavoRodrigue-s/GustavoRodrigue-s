@@ -6,7 +6,7 @@
   <li>💼 I started my journey as a developer in 2021 and have been working professionally since 2022</li>
   <li>🎓 Interest in starting a degree in Systems and Analysis and Development (ADS)</li>
   <li>⚛️ React.js | React Native | Next.js | TypeScript | Node.js</li>
-  <li>🎯 My goal is to specialize in React.js, work with other frontend and backend technologies</li>
+  <li>🎯 My goal is to specialize in React.js and work with other frontend and backend technologies</li>
 </ul>
 
 ##
