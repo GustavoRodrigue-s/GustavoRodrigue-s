@@ -15,7 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-fabiano-768589208/)
  
 ##
-### 🛠️ Technologies and Tools
+### 🛠️ Technologies & Tools
 <table><tr><td valign="top" width="25%">
 
 ### <div align="center"> Frontend </div>
