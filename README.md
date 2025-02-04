@@ -21,7 +21,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,styledcomponents,bootstrap,redux&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="25%">
@@ -29,7 +29,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,py,nestjs&theme=dark&perline=2" />
 </p>
 
 </td><td valign="top" width="25%">
@@ -45,7 +45,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vscode,figma&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,figma,git&theme=dark&perline=2" />
 </p>
 
 </td></tr></table>
